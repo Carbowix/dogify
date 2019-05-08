@@ -7,3 +7,12 @@
 [![https://nodei.co/npm/katify.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/dogify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dogify)
 
 Node module made for collecting dog features into one
+
+## Features
+
+- Random dog image
+- Random dog breed image
+- Random dog breed
+- Random dog ascii face
+- Random dog fact
+- Dog name suggester
