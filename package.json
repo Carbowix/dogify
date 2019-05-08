@@ -1,0 +1,26 @@
+{
+  "name": "dogify",
+  "version": "1.0.0",
+  "description": "Node module made for collecting dog features into one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dogs",
+    "dog-api",
+    "framework",
+    "javascript",
+    "random-dog",
+    "dog-name",
+    "dog",
+    "image",
+    "dog",
+    "breeds"
+  ],
+  "author": "Carbowix",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
